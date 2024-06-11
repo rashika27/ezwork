@@ -1,0 +1,19 @@
+/* src/styles/Header.module.css */
+.header {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .logo {
+    width: 100px;
+  }
+  
+  h1 {
+    color: #007bc8;
+  }
+  
+  p {
+    font-size: 1.5em;
+    margin-top: 10px;
+  }
+  
